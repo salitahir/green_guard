@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "greenguard"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+  "torch",
+  "transformers>=4.43",
+  "huggingface_hub>=0.24",
+  "accelerate>=0.33",
+  "pandas",
+  "scikit-learn"
+]
+
+[tool.setuptools]
+package-dir = {"" = "source"}
+packages = ["greenguard"]
