@@ -1,6 +1,7 @@
 *.bin
 *.safetensors
 .venv/
+*.egg-info/
 __pycache__/
 artifacts/models/
 models/
