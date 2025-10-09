@@ -1,0 +1,13 @@
+{
+  "model_type": "roberta",
+  "id2label": {
+    "0": "E",
+    "1": "S",
+    "2": "G"
+  },
+  "label2id": {
+    "E": 0,
+    "S": 1,
+    "G": 2
+  }
+}

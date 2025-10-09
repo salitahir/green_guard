@@ -1,0 +1,11 @@
+{
+  "model_type": "roberta",
+  "id2label": {
+    "0": "No",
+    "1": "Yes"
+  },
+  "label2id": {
+    "No": 0,
+    "Yes": 1
+  }
+}
