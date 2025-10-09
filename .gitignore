@@ -1,0 +1,6 @@
+*.bin
+*.safetensors
+.venv/
+__pycache__/
+artifacts/models/
+models/

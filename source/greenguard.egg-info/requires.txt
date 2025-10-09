@@ -1,0 +1,6 @@
+torch
+transformers>=4.43
+huggingface_hub>=0.24
+accelerate>=0.33
+pandas
+scikit-learn
