@@ -5,3 +5,7 @@
 __pycache__/
 artifacts/models/
 models/
+
+*.egg-info/
+__pycache__/
+.venv/
